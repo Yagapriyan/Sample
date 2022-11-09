@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class General {
+public class simple {
 	
 	//Palindrome
 	void method1() 
@@ -131,7 +131,7 @@ public class General {
 	
 	public static void main(String[] args) 
 	{
-	General obj = new General();
+	simple obj = new simple();
 	obj.method1();
 	obj.method2();
 	obj.method3();
